@@ -1,0 +1,20 @@
+[project]
+name = "llm-engineering-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-genai>=1.27.0",
+    "gradio>=5.38.2",
+    "ipykernel>=6.30.0",
+    "langchain>=0.3.27",
+    "langchain-chroma>=0.2.5",
+    "langchain-community>=0.3.27",
+    "langchain-google-genai>=2.1.8",
+    "langchain-openai>=0.3.28",
+    "load-dotenv>=0.1.0",
+    "nbformat>=5.10.4",
+    "plotly>=6.2.0",
+    "scikit-learn>=1.7.1",
+]
